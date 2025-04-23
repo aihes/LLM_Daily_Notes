@@ -1,0 +1,23 @@
+{
+  "name": "llm-daily-notes",
+  "version": "1.0.0",
+  "description": "大模型日常笔记：系统化LLM学习之路",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [
+    "LLM",
+    "AI",
+    "Machine Learning",
+    "Notes",
+    "VitePress"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.44"
+  }
+}

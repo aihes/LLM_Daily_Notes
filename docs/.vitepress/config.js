@@ -1,0 +1,109 @@
+export default {
+  title: 'LLM Daily Notes',
+  description: '大模型日常笔记：系统化LLM学习之路',
+  lang: 'zh-CN',
+  lastUpdated: true,
+  
+  themeConfig: {
+    logo: '/logo.png',
+    siteTitle: 'LLM Daily Notes',
+    
+    nav: [
+      { text: '首页', link: '/' },
+      { text: '每日笔记', link: '/daily/' },
+      { text: '基础理论', link: '/basic-theory/' },
+      { text: '模型解析', link: '/model-analysis/' },
+      { text: '应用实践', link: '/applications/' },
+      { text: '前沿动态', link: '/news/' },
+      { text: '思考与展望', link: '/thoughts/' },
+      { text: 'GitHub', link: 'https://github.com/your-username/LLM_Daily_Notes' }
+    ],
+    
+    sidebar: {
+      '/daily/': [
+        {
+          text: '每日笔记',
+          items: [
+            { text: '2025-04-23: 思维链技术探索', link: '/daily/2025-04-23' }
+          ]
+        }
+      ],
+      '/basic-theory/': [
+        {
+          text: '基础理论',
+          items: [
+            { text: '概述', link: '/basic-theory/' },
+            { text: 'Transformer架构', link: '/basic-theory/transformer' },
+            { text: '预训练与微调', link: '/basic-theory/pretraining-finetuning' },
+            { text: '提示工程', link: '/basic-theory/prompt-engineering' }
+          ]
+        }
+      ],
+      '/model-analysis/': [
+        {
+          text: '模型解析',
+          items: [
+            { text: '概述', link: '/model-analysis/' },
+            { text: 'GPT系列', link: '/model-analysis/gpt' },
+            { text: 'Claude系列', link: '/model-analysis/claude' },
+            { text: 'Llama系列', link: '/model-analysis/llama' },
+            { text: '国产模型分析', link: '/model-analysis/chinese-models' }
+          ]
+        }
+      ],
+      '/applications/': [
+        {
+          text: '应用实践',
+          items: [
+            { text: '概述', link: '/applications/' },
+            { text: '编程助手应用', link: '/applications/coding-assistants' },
+            { text: '知识问答系统', link: '/applications/qa-systems' },
+            { text: '多模态应用', link: '/applications/multimodal' },
+            { text: 'Agent开发', link: '/applications/agent-development' }
+          ]
+        }
+      ],
+      '/news/': [
+        {
+          text: '前沿动态',
+          items: [
+            { text: '概述', link: '/news/' },
+            { text: '论文解读', link: '/news/paper-reviews' },
+            { text: '新技术追踪', link: '/news/tech-tracking' },
+            { text: '行业新闻', link: '/news/industry-news' }
+          ]
+        }
+      ],
+      '/thoughts/': [
+        {
+          text: '思考与展望',
+          items: [
+            { text: '概述', link: '/thoughts/' },
+            { text: '技术趋势', link: '/thoughts/tech-trends' },
+            { text: '伦理问题', link: '/thoughts/ethics' },
+            { text: '未来发展', link: '/thoughts/future' }
+          ]
+        }
+      ]
+    },
+    
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/your-username/LLM_Daily_Notes' }
+    ],
+    
+    footer: {
+      message: '基于 MIT 许可发布',
+      copyright: `Copyright © ${new Date().getFullYear()} LLM Daily Notes`
+    },
+    
+    lastUpdatedText: '最后更新',
+    docFooter: {
+      prev: '上一页',
+      next: '下一页'
+    },
+    
+    search: {
+      provider: 'local'
+    }
+  }
+}
