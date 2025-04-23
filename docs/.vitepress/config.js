@@ -16,7 +16,7 @@ export default {
       { text: '应用实践', link: '/applications/' },
       { text: '前沿动态', link: '/news/' },
       { text: '思考与展望', link: '/thoughts/' },
-      { text: 'GitHub', link: 'https://github.com/your-username/LLM_Daily_Notes' }
+      { text: 'GitHub', link: 'https://github.com/aihes/LLM_Daily_Notes' }
     ],
     
     sidebar: {
@@ -88,7 +88,7 @@ export default {
     },
     
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/your-username/LLM_Daily_Notes' }
+      { icon: 'github', link: 'https://github.com/aihes/LLM_Daily_Notes' }
     ],
     
     footer: {
