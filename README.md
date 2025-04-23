@@ -14,7 +14,7 @@
    - Transformer架构
    - 预训练与微调
    - 提示工程
-   
+
 2. 模型解析
    - GPT系列
    - Claude系列
@@ -41,9 +41,57 @@
 - 使用 VitePress 搭建文档网站
 - Markdown格式编写
 - GitHub Actions自动部署
+- Cloudflare Pages托管
+
+## 快速开始
+
+### 本地开发
+
+1. 克隆仓库
+   ```bash
+   git clone https://github.com/aihes/LLM_Daily_Notes.git
+   cd LLM_Daily_Notes
+   ```
+
+2. 安装依赖
+   ```bash
+   npm install
+   ```
+
+3. 启动开发服务器
+   ```bash
+   npm run docs:dev
+   ```
+
+4. 在浏览器中访问 `http://localhost:5173`
+
+### 构建静态网站
+
+```bash
+./build.sh
+```
+
+或者使用npm命令：
+
+```bash
+npm run docs:build
+```
+
+构建后的文件将位于 `docs/.vitepress/dist` 目录中。
+
+## 部署
+
+本项目可以部署到 Cloudflare Pages。详细的部署指南请参考：
+
+- [部署指南](DEPLOYMENT.md)
+- [Cloudflare Pages 配置指南](CLOUDFLARE_SETUP.md)
 
 ## 参与贡献
 欢迎通过以下方式参与项目：
 - GitHub Discussions进行讨论
 - Issue追踪内容更新建议
 - Pull Request接受社区贡献
+
+## 许可证
+
+本项目采用 MIT 许可证。

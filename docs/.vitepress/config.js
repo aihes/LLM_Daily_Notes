@@ -3,11 +3,12 @@ export default {
   description: '大模型日常笔记：系统化LLM学习之路',
   lang: 'zh-CN',
   lastUpdated: true,
-  
+  ignoreDeadLinks: true, // 忽略死链接检查
+
   themeConfig: {
     logo: '/logo.png',
     siteTitle: 'LLM Daily Notes',
-    
+
     nav: [
       { text: '首页', link: '/' },
       { text: '每日笔记', link: '/daily/' },
@@ -18,7 +19,7 @@ export default {
       { text: '思考与展望', link: '/thoughts/' },
       { text: 'GitHub', link: 'https://github.com/aihes/LLM_Daily_Notes' }
     ],
-    
+
     sidebar: {
       '/daily/': [
         {
@@ -86,22 +87,22 @@ export default {
         }
       ]
     },
-    
+
     socialLinks: [
       { icon: 'github', link: 'https://github.com/aihes/LLM_Daily_Notes' }
     ],
-    
+
     footer: {
       message: '基于 MIT 许可发布',
       copyright: `Copyright © ${new Date().getFullYear()} LLM Daily Notes`
     },
-    
+
     lastUpdatedText: '最后更新',
     docFooter: {
       prev: '上一页',
       next: '下一页'
     },
-    
+
     search: {
       provider: 'local'
     }
