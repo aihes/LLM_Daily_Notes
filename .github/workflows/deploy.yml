@@ -1,9 +1,10 @@
 name: Deploy to Cloudflare Pages
 
 on:
-  push:
-    branches:
-      - main
+  # push trigger disabled - using Cloudflare's automatic building instead
+  # push:
+  #   branches:
+  #     - main
   workflow_dispatch:
 
 jobs:
