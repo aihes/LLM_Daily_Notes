@@ -17,6 +17,7 @@ export default {
       { text: '应用实践', link: '/applications/' },
       { text: '前沿动态', link: '/news/' },
       { text: '思考与展望', link: '/thoughts/' },
+      { text: 'AI工程师进阶', link: '/ai-engineer/' },
       { text: 'GitHub', link: 'https://github.com/aihes/LLM_Daily_Notes' }
     ],
 
@@ -83,6 +84,16 @@ export default {
             { text: '技术趋势', link: '/thoughts/tech-trends' },
             { text: '伦理问题', link: '/thoughts/ethics' },
             { text: '未来发展', link: '/thoughts/future' }
+          ]
+        }
+      ],
+      '/ai-engineer/': [
+        {
+          text: 'AI工程师进阶之路',
+          items: [
+            { text: '概述', link: '/ai-engineer/' },
+            { text: 'LLM工程技术', link: '/ai-engineer/llm-engineering' },
+            { text: 'MLOps实践指南', link: '/ai-engineer/mlops' }
           ]
         }
       ]
