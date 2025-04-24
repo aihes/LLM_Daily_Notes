@@ -223,21 +223,36 @@ AI工程师是专注于人工智能系统开发和部署的技术专家，主要
 
 ## 学习资源推荐
 
+### 官方资源
+
+- [Google 机器学习资源](https://developers.google.com/machine-learning?hl=zh-cn) - 谷歌官方提供的机器学习学习资源，包含课程、指南和实践教程
+- [Microsoft AI 学习路径](https://learn.microsoft.com/zh-cn/training/paths/ai-fundamentals/) - 微软的AI基础知识学习路径
+- [AWS 机器学习培训与认证](https://aws.amazon.com/cn/training/learn-about/machine-learning/) - 亚马逊云服务的机器学习课程
+
 ### 在线课程
 
-- [待补充]
+- [DeepLearning.AI](https://www.deeplearning.ai/) - Andrew Ng 创立的深度学习课程平台
+- [Fast.ai](https://www.fast.ai/) - 实用的深度学习课程，强调实践
+- [Hugging Face 课程](https://huggingface.co/learn) - 关于变换器和 LLM 的课程
 
 ### 书籍
 
-- [待补充]
+- 《动手学深度学习》 - 李沈来等著
+- 《深度学习》 - Ian Goodfellow 等著
+- 《Building Machine Learning Powered Applications》 - Emmanuel Ameisen 著
+- 《Designing Machine Learning Systems》 - Chip Huyen 著
 
 ### 论文与博客
 
-- [待补充]
+- [Papers With Code](https://paperswithcode.com/) - 机器学习论文和实现代码
+- [Distill.pub](https://distill.pub/) - 清晰解释机器学习概念的交互式博客
+- [Lil'Log](https://lilianweng.github.io/lil-log/) - Lilian Weng 的深度学习博客
 
 ### 开源项目
 
-- [待补充]
+- [Hugging Face Transformers](https://github.com/huggingface/transformers) - 预训练模型库
+- [LangChain](https://github.com/langchain-ai/langchain) - LLM 应用开发框架
+- [MLflow](https://github.com/mlflow/mlflow) - 机器学习生命周期管理工具
 
 ## AI工程师职业发展
 

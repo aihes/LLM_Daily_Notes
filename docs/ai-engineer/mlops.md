@@ -170,6 +170,12 @@ MLOps通过标准化流程和自动化工具解决这些挑战，提高AI系统�
 
 ## MLOps工具生态
 
+### 官方资源与指南
+
+- [Google 机器学习资源](https://developers.google.com/machine-learning?hl=zh-cn) - 谷歌官方提供的机器学习资源，包含 MLOps 最佳实践
+- [Google Cloud MLOps 指南](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) - 全面的 MLOps 成熟度模型和实践指南
+- [Microsoft MLOps 框架](https://learn.microsoft.com/zh-cn/azure/architecture/ai-ml/guide/mlops-technical-paper) - 微软的 MLOps 技术框架
+
 ### 数据版本控制与管理
 
 - **DVC (Data Version Control)**：数据和模型版本控制

@@ -195,6 +195,26 @@ LLM工程师专注于将大型语言模型转化为实用的应用和产品，�
 - **解决方案**：结合代码库上下文的专业化模型
 - **技术重点**：代码理解、静态分析集成、安全检查
 
+## 学习资源
+
+### 官方资源
+
+- [Google 机器学习资源](https://developers.google.com/machine-learning?hl=zh-cn) - 包含生成式 AI 和 LLM 相关资源
+- [OpenAI 文档](https://platform.openai.com/docs) - OpenAI API 使用指南和最佳实践
+- [Anthropic Claude 文档](https://docs.anthropic.com/) - Claude 模型使用指南
+
+### 开源项目
+
+- [LangChain](https://github.com/langchain-ai/langchain) - LLM 应用开发框架
+- [LlamaIndex](https://github.com/run-llama/llama_index) - 数据增强生成框架
+- [Hugging Face Transformers](https://github.com/huggingface/transformers) - 预训练模型库
+
+### 实用指南
+
+- [Prompt Engineering Guide](https://www.promptingguide.ai/) - 提示工程全面指南
+- [LLM University](https://docs.cohere.com/docs/llmu) - Cohere 的 LLM 学习资源
+- [RAG 最佳实践](https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb) - Ray 项目的 RAG 实践指南
+
 ## 未来发展趋势
 
 - **多模态LLM工程**：整合文本、图像、音频等多种模态
