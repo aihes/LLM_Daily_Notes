@@ -13,7 +13,7 @@ hero:
       link: /basic-theory/
     - theme: alt
       text: GitHub
-      link: https://github.com/your-username/LLM_Daily_Notes
+      link: https://github.com/aihes/LLM_Daily_Notes
 
 features:
   - icon: 📝
