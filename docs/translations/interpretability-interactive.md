@@ -302,7 +302,7 @@
     </div>
   </div>
   <div class="slide-nav">
-    <a href="./interpretability-urgency.md">阅读完整文章</a> | 
+    <a href="./interpretability-urgency.md">阅读完整文章</a> |
     <a href="./interpretability-summary.md">查看精简总结</a>
   </div>
 </div>
@@ -381,7 +381,7 @@ ul {
   .slide-content {
     flex-direction: column;
   }
-  
+
   .slide-image {
     order: -1;
   }
@@ -389,21 +389,24 @@ ul {
 </style>
 
 <script>
-// 简单的交互式幻灯片功能
-document.addEventListener('DOMContentLoaded', function() {
-  const slides = document.querySelectorAll('.slide');
-  
-  slides.forEach(slide => {
-    const nav = slide.querySelector('.slide-nav');
-    if (nav && !nav.querySelector('a')) {
-      nav.addEventListener('click', function() {
-        // 找到下一个幻灯片并滚动到那里
-        const nextSlide = slide.nextElementSibling;
-        if (nextSlide && nextSlide.classList.contains('slide')) {
-          nextSlide.scrollIntoView({ behavior: 'smooth' });
-        }
-      });
-    }
-  });
-});
+// 使用VitePress的客户端挂载钩子，确保代码只在浏览器中执行
+export default {
+  mounted() {
+    // 简单的交互式幻灯片功能
+    const slides = document.querySelectorAll('.slide');
+
+    slides.forEach(slide => {
+      const nav = slide.querySelector('.slide-nav');
+      if (nav && !nav.querySelector('a')) {
+        nav.addEventListener('click', function() {
+          // 找到下一个幻灯片并滚动到那里
+          const nextSlide = slide.nextElementSibling;
+          if (nextSlide && nextSlide.classList.contains('slide')) {
+            nextSlide.scrollIntoView({ behavior: 'smooth' });
+          }
+        });
+      }
+    });
+  }
+}
 </script>
