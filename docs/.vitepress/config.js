@@ -98,6 +98,25 @@ export default {
             { text: '可解释性交互式解读', link: '/translations/interpretability-interactive' }
           ]
         }
+      ],
+      '/translations/': [
+        {
+          text: '前沿动态',
+          items: [
+            { text: '概述', link: '/news/' },
+            { text: '论文解读', link: '/news/paper-reviews' },
+            { text: '新技术追踪', link: '/news/tech-tracking' },
+            { text: '行业新闻', link: '/news/industry-news' }
+          ]
+        },
+        {
+          text: '翻译',
+          items: [
+            { text: '可解释性的紧迫性', link: '/translations/interpretability-urgency' },
+            { text: '可解释性精简总结', link: '/translations/interpretability-summary' },
+            { text: '可解释性交互式解读', link: '/translations/interpretability-interactive' }
+          ]
+        }
       ]
     },
 
