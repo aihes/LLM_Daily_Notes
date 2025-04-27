@@ -1,5 +1,9 @@
 # LLM Daily Notes (大模型日常笔记)
 
+<p align="center">
+  <img src="docs/public/logo-large.png" alt="LLM Daily Notes Logo" width="200">
+</p>
+
 ## 项目背景
 这是一个记录和分享大语言模型(LLM)学习心得、研究发现和实践经验的开源知识库。通过系统化的方式，帮助开发者和研究者更好地理解和应用LLM技术。
 
