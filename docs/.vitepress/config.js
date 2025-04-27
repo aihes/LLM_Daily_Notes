@@ -61,7 +61,8 @@ export default {
             { text: '编程助手应用', link: '/applications/coding-assistants' },
             { text: '知识问答系统', link: '/applications/qa-systems' },
             { text: '多模态应用', link: '/applications/multimodal' },
-            { text: 'Agent开发', link: '/applications/agent-development' }
+            { text: 'Agent开发', link: '/applications/agent-development' },
+            { text: 'AI Agents 学习资源', link: '/applications/agent-resources' }
           ]
         }
       ],
