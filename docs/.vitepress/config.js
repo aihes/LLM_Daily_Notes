@@ -89,6 +89,12 @@ export default {
             { text: '新技术追踪', link: '/news/tech-tracking' },
             { text: '行业新闻', link: '/news/industry-news' }
           ]
+        },
+        {
+          text: '翻译',
+          items: [
+            { text: '可解释性的紧迫性', link: '/translations/interpretability-urgency' }
+          ]
         }
       ]
     },
