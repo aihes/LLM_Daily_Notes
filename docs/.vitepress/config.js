@@ -22,8 +22,6 @@ export default {
       { text: '模型解析', link: '/model-analysis/' },
       { text: '应用实践', link: '/applications/' },
       { text: '前沿动态', link: '/news/' },
-      { text: '思考与展望', link: '/thoughts/' },
-      { text: 'AI工程师进阶', link: '/ai-engineer/' },
       { text: 'GitHub', link: 'https://github.com/aihes/LLM_Daily_Notes' }
     ],
 
@@ -68,7 +66,10 @@ export default {
             { text: '知识问答系统', link: '/applications/qa-systems' },
             { text: '多模态应用', link: '/applications/multimodal' },
             { text: 'Agent开发', link: '/applications/agent-development' },
-            { text: 'AI Agents 学习资源', link: '/applications/agent-resources' }
+            { text: 'AI Agents 学习资源', link: '/applications/agent-resources' },
+            { text: 'AI工程师进阶', link: '/ai-engineer/' },
+            { text: 'LLM工程技术', link: '/ai-engineer/llm-engineering' },
+            { text: 'MLOps实践指南', link: '/ai-engineer/mlops' }
           ]
         }
       ],
@@ -80,27 +81,6 @@ export default {
             { text: '论文解读', link: '/news/paper-reviews' },
             { text: '新技术追踪', link: '/news/tech-tracking' },
             { text: '行业新闻', link: '/news/industry-news' }
-          ]
-        }
-      ],
-      '/thoughts/': [
-        {
-          text: '思考与展望',
-          items: [
-            { text: '概述', link: '/thoughts/' },
-            { text: '技术趋势', link: '/thoughts/tech-trends' },
-            { text: '伦理问题', link: '/thoughts/ethics' },
-            { text: '未来发展', link: '/thoughts/future' }
-          ]
-        }
-      ],
-      '/ai-engineer/': [
-        {
-          text: 'AI工程师进阶之路',
-          items: [
-            { text: '概述', link: '/ai-engineer/' },
-            { text: 'LLM工程技术', link: '/ai-engineer/llm-engineering' },
-            { text: 'MLOps实践指南', link: '/ai-engineer/mlops' }
           ]
         }
       ]
