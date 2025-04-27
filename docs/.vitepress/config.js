@@ -93,7 +93,9 @@ export default {
         {
           text: '翻译',
           items: [
-            { text: '可解释性的紧迫性', link: '/translations/interpretability-urgency' }
+            { text: '可解释性的紧迫性', link: '/translations/interpretability-urgency' },
+            { text: '可解释性精简总结', link: '/translations/interpretability-summary' },
+            { text: '可解释性交互式解读', link: '/translations/interpretability-interactive' }
           ]
         }
       ]
