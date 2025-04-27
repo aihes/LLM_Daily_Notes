@@ -5,7 +5,7 @@ hero:
   text: 大模型日常笔记
   tagline: 系统化LLM学习之路
   image:
-    src: /logo.png
+    src: /logo-large.png
     alt: LLM Daily Notes
   actions:
     - theme: brand
