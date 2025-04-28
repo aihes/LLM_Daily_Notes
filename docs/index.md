@@ -32,170 +32,47 @@ features:
 
 # 最新更新
 
-<div class="recent-updates">
-  <div class="update-card">
-    <div class="update-date">2025-04-25</div>
-    <h3>Transformer电路研究</h3>
-    <p>添加了Anthropic最新研究《大型语言模型的生物学》的介绍，探索AI模型内部工作机制。</p>
-    <a href="/news/transformer-circuits" class="read-more">阅读详情 →</a>
-  </div>
+## 2025-04-25: Transformer电路研究
+添加了Anthropic最新研究《大型语言模型的生物学》的介绍，探索AI模型内部工作机制。
 
-  <div class="update-card">
-    <div class="update-date">2025-04-24</div>
-    <h3>可解释性的紧迫性</h3>
-    <p>翻译了Anthropic创始人Dario Amodei关于AI可解释性重要性的文章，并提供了精简总结和交互式解读。</p>
-    <a href="/translations/interpretability-urgency" class="read-more">阅读详情 →</a>
-  </div>
+[阅读详情 →](/news/transformer-circuits)
 
-  <div class="update-card">
-    <div class="update-date">2025-04-23</div>
-    <h3>项目启动</h3>
-    <p>LLM Daily Notes项目正式启动！这个项目旨在记录和分享大语言模型学习过程中的心得、研究发现和实践经验。</p>
-    <a href="/basic-theory/" class="read-more">开始阅读 →</a>
-  </div>
-</div>
+## 2025-04-24: 可解释性的紧迫性
+翻译了Anthropic创始人Dario Amodei关于AI可解释性重要性的文章，并提供了精简总结和交互式解读。
 
-<div class="content-overview">
-  <h2>内容概览</h2>
-  <div class="category-grid">
-    <div class="category-card">
-      <h3>📚 基础理论</h3>
-      <ul>
-        <li><a href="/basic-theory/transformer">Transformer架构</a></li>
-        <li><a href="/basic-theory/pretraining-finetuning">预训练与微调</a></li>
-        <li><a href="/basic-theory/prompt-engineering">提示工程</a></li>
-      </ul>
-      <a href="/basic-theory/" class="view-all">查看全部 →</a>
-    </div>
+[阅读详情 →](/translations/interpretability-urgency)
 
-    <div class="category-card">
-      <h3>🔍 模型解析</h3>
-      <ul>
-        <li><a href="/model-analysis/gpt">GPT系列</a></li>
-        <li><a href="/model-analysis/claude">Claude系列</a></li>
-        <li><a href="/model-analysis/llama">Llama系列</a></li>
-      </ul>
-      <a href="/model-analysis/" class="view-all">查看全部 →</a>
-    </div>
+## 2025-04-23: 项目启动
+LLM Daily Notes项目正式启动！这个项目旨在记录和分享大语言模型学习过程中的心得、研究发现和实践经验。
 
-    <div class="category-card">
-      <h3>🛠️ 应用实践</h3>
-      <ul>
-        <li><a href="/applications/coding-assistants">编程助手应用</a></li>
-        <li><a href="/applications/qa-systems">知识问答系统</a></li>
-        <li><a href="/applications/agent-development">Agent开发</a></li>
-      </ul>
-      <a href="/applications/" class="view-all">查看全部 →</a>
-    </div>
+[开始阅读 →](/basic-theory/)
 
-    <div class="category-card">
-      <h3>📰 前沿动态</h3>
-      <ul>
-        <li><a href="/news/paper-reviews">论文解读</a></li>
-        <li><a href="/news/tech-tracking">新技术追踪</a></li>
-        <li><a href="/news/transformer-circuits">Transformer电路研究</a></li>
-      </ul>
-      <a href="/news/" class="view-all">查看全部 →</a>
-    </div>
-  </div>
-</div>
+# 内容概览
 
-<style>
-.recent-updates {
-  margin: 2rem 0;
-}
+## 📚 基础理论
+- [Transformer架构](/basic-theory/transformer)
+- [预训练与微调](/basic-theory/pretraining-finetuning)
+- [提示工程](/basic-theory/prompt-engineering)
 
-.update-card {
-  background-color: #f8f9fa;
-  border-radius: 8px;
-  padding: 1.5rem;
-  margin-bottom: 1rem;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
+[查看全部 →](/basic-theory/)
 
-.update-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
+## 🔍 模型解析
+- [GPT系列](/model-analysis/gpt)
+- [Claude系列](/model-analysis/claude)
+- [Llama系列](/model-analysis/llama)
 
-.update-date {
-  font-size: 0.9rem;
-  color: #666;
-  margin-bottom: 0.5rem;
-}
+[查看全部 →](/model-analysis/)
 
-.update-card h3 {
-  margin-top: 0;
-  margin-bottom: 0.5rem;
-  color: var(--vp-c-brand);
-}
+## 🛠️ 应用实践
+- [编程助手应用](/applications/coding-assistants)
+- [知识问答系统](/applications/qa-systems)
+- [Agent开发](/applications/agent-development)
 
-.read-more {
-  display: inline-block;
-  margin-top: 0.5rem;
-  font-weight: 500;
-  color: var(--vp-c-brand);
-  text-decoration: none;
-}
+[查看全部 →](/applications/)
 
-.read-more:hover {
-  text-decoration: underline;
-}
+## 📰 前沿动态
+- [论文解读](/news/paper-reviews)
+- [新技术追踪](/news/tech-tracking)
+- [Transformer电路研究](/news/transformer-circuits)
 
-.content-overview {
-  margin: 3rem 0;
-}
-
-.category-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 1.5rem;
-  margin-top: 1.5rem;
-}
-
-.category-card {
-  background-color: #f8f9fa;
-  border-radius: 8px;
-  padding: 1.5rem;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.category-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.category-card h3 {
-  margin-top: 0;
-  margin-bottom: 1rem;
-  color: var(--vp-c-brand);
-}
-
-.category-card ul {
-  padding-left: 1.2rem;
-  margin-bottom: 1rem;
-}
-
-.category-card li {
-  margin-bottom: 0.5rem;
-}
-
-.view-all {
-  display: inline-block;
-  font-weight: 500;
-  color: var(--vp-c-brand);
-  text-decoration: none;
-}
-
-.view-all:hover {
-  text-decoration: underline;
-}
-
-@media (max-width: 640px) {
-  .category-grid {
-    grid-template-columns: 1fr;
-  }
-}
-</style>
+[查看全部 →](/news/)
