@@ -86,7 +86,8 @@ export default {
             { text: '概述', link: '/news/' },
             { text: '论文解读', link: '/news/paper-reviews' },
             { text: '新技术追踪', link: '/news/tech-tracking' },
-            { text: '行业新闻', link: '/news/industry-news' }
+            { text: '行业新闻', link: '/news/industry-news' },
+            { text: 'Transformer电路研究', link: '/news/transformer-circuits' }
           ]
         },
         {
@@ -105,7 +106,8 @@ export default {
             { text: '概述', link: '/news/' },
             { text: '论文解读', link: '/news/paper-reviews' },
             { text: '新技术追踪', link: '/news/tech-tracking' },
-            { text: '行业新闻', link: '/news/industry-news' }
+            { text: '行业新闻', link: '/news/industry-news' },
+            { text: 'Transformer电路研究', link: '/news/transformer-circuits' }
           ]
         },
         {
