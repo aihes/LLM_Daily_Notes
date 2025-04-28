@@ -2,7 +2,7 @@
 
 *2025年3月7日 · 阅读时间7分钟*
 
-![什么是模型上下文协议(MCP)？它如何相比API简化AI集成](https://d1fiydes8a4qgo.cloudfront.net/blog/2025/march/mcp_guides/what_is_mcp/linkedin_card.png "什么是模型上下文协议(MCP)？它如何相比API简化AI集成")
+![什么是模型上下文协议(MCP)？它如何相比API简化AI集成](/images/mcp/linkedin_card.png "什么是模型上下文协议(MCP)？它如何相比API简化AI集成")
 
 **MCP(模型上下文协议)**是一种新的开放协议，旨在标准化应用程序如何为大型语言模型(LLM)提供上下文。
 
@@ -14,7 +14,7 @@
 
 模型上下文协议(MCP)是一种标准化协议，用于连接AI代理与各种外部工具和数据源。可以将其想象为USB-C端口 - 但是用于AI应用程序。
 
-![什么是MCP？](/assets/images/mcp_overview-641a298352ff835488af36be3d8eee52.png "什么是MCP？")
+![什么是MCP？](/images/mcp/mcp_overview.png "什么是MCP？")
 
 **模型上下文协议(MCP)**是一种标准化协议，用于连接AI代理与各种外部工具和数据源
 
@@ -27,7 +27,7 @@
 
 **打个比方：** API就像单独的门 - 每扇门都有自己的钥匙和规则：
 
-![为什么使用MCP而不是传统API？](/assets/images/api_overview-0d9335920826e30bba0897997f599829.png "为什么使用MCP而不是传统API？")
+![为什么使用MCP而不是传统API？](/images/mcp/api_overview.png "为什么使用MCP而不是传统API？")
 
 传统API要求开发者为每个服务或数据源编写自定义集成
 
@@ -67,7 +67,7 @@ MCP提供实时、双向通信：
 
 MCP遵循简单的客户端-服务器架构：
 
-![MCP如何工作：架构](/assets/images/mcp_overview-641a298352ff835488af36be3d8eee52.png "MCP如何工作：架构")
+![MCP如何工作：架构](/images/mcp/mcp_overview.png "MCP如何工作：架构")
 
 * **MCP主机：** 这些是需要访问外部数据或工具的应用程序(如Claude桌面版或AI驱动的IDE)
 * **MCP客户端：** 它们与MCP服务器维持专用的一对一连接
@@ -138,7 +138,7 @@ MCP集成：
 * **MCP：** 统一接口，供AI代理动态与外部数据/工具交互
 * **API：** 传统方法，需要单独集成和更多手动监督
 
-![什么是MCP？](/assets/images/mcp_overview-641a298352ff835488af36be3d8eee52.png "什么是MCP？")
+![什么是MCP？](/images/mcp/mcp_overview.png "什么是MCP？")
 
 MCP提供了一种**统一**和**标准化**的方式来集成AI代理和模型与外部数据和工具
 
