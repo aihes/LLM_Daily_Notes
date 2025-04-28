@@ -75,6 +75,7 @@ export default {
             { text: 'AI Agents 学习资源', link: '/applications/agent-resources' },
             { text: 'AI工程师进阶', link: '/ai-engineer/' },
             { text: 'LLM工程技术', link: '/ai-engineer/llm-engineering' },
+            { text: 'AI应用开发工程师技能图谱', link: '/ai-engineer/ai-application-engineer' },
             { text: 'MLOps实践指南', link: '/ai-engineer/mlops' }
           ]
         }
