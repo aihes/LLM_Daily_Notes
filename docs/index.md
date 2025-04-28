@@ -46,33 +46,3 @@ features:
 LLM Daily Notes项目正式启动！这个项目旨在记录和分享大语言模型学习过程中的心得、研究发现和实践经验。
 
 [开始阅读 →](/basic-theory/)
-
-# 内容概览
-
-## 📚 基础理论
-- [Transformer架构](/basic-theory/transformer)
-- [预训练与微调](/basic-theory/pretraining-finetuning)
-- [提示工程](/basic-theory/prompt-engineering)
-
-[查看全部 →](/basic-theory/)
-
-## 🔍 模型解析
-- [GPT系列](/model-analysis/gpt)
-- [Claude系列](/model-analysis/claude)
-- [Llama系列](/model-analysis/llama)
-
-[查看全部 →](/model-analysis/)
-
-## 🛠️ 应用实践
-- [编程助手应用](/applications/coding-assistants)
-- [知识问答系统](/applications/qa-systems)
-- [Agent开发](/applications/agent-development)
-
-[查看全部 →](/applications/)
-
-## 📰 前沿动态
-- [论文解读](/news/paper-reviews)
-- [新技术追踪](/news/tech-tracking)
-- [Transformer电路研究](/news/transformer-circuits)
-
-[查看全部 →](/news/)
