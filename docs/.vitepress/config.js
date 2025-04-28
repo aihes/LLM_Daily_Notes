@@ -28,8 +28,7 @@ export default {
       { text: '基础理论', link: '/basic-theory/' },
       { text: '模型解析', link: '/model-analysis/' },
       { text: '应用实践', link: '/applications/' },
-      { text: '前沿动态', link: '/news/' },
-      { text: 'GitHub', link: 'https://github.com/aihes/LLM_Daily_Notes' }
+      { text: '前沿动态', link: '/news/' }
     ],
 
     sidebar: {
