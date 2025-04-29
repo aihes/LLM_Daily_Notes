@@ -28,7 +28,8 @@ export default {
       { text: '基础理论', link: '/basic-theory/' },
       { text: '模型解析', link: '/model-analysis/' },
       { text: '应用实践', link: '/applications/' },
-      { text: '前沿动态', link: '/news/' }
+      { text: '前沿动态', link: '/news/' },
+      { text: '资源工具', link: '/resources/' }
     ],
 
     sidebar: {
@@ -37,6 +38,36 @@ export default {
           text: '每日笔记',
           items: [
             { text: '2025-04-23: 思维链技术探索', link: '/daily/2025-04-23' }
+          ]
+        }
+      ],
+      '/resources/': [
+        {
+          text: '开发资源',
+          items: [
+            { text: '概述', link: '/resources/' },
+            { text: '公共API资源大全', link: '/resources/public-apis' }
+          ]
+        },
+        {
+          text: '工具平台',
+          items: [
+            { text: 'ACI.dev：AI代理工具集成平台', link: '/tools/aci-platform' }
+          ]
+        }
+      ],
+      '/tools/': [
+        {
+          text: '开发资源',
+          items: [
+            { text: '概述', link: '/resources/' },
+            { text: '公共API资源大全', link: '/resources/public-apis' }
+          ]
+        },
+        {
+          text: '工具平台',
+          items: [
+            { text: 'ACI.dev：AI代理工具集成平台', link: '/tools/aci-platform' }
           ]
         }
       ],
