@@ -46,7 +46,8 @@ export default {
           text: '开发资源',
           items: [
             { text: '概述', link: '/resources/' },
-            { text: '公共API资源大全', link: '/resources/public-apis' }
+            { text: '公共API资源大全', link: '/resources/public-apis' },
+            { text: '机器学习基础教程', link: '/resources/machine-learning-basics' }
           ]
         },
         {
@@ -61,7 +62,8 @@ export default {
           text: '开发资源',
           items: [
             { text: '概述', link: '/resources/' },
-            { text: '公共API资源大全', link: '/resources/public-apis' }
+            { text: '公共API资源大全', link: '/resources/public-apis' },
+            { text: '机器学习基础教程', link: '/resources/machine-learning-basics' }
           ]
         },
         {
