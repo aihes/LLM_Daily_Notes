@@ -47,7 +47,8 @@ export default {
           items: [
             { text: '概述', link: '/resources/' },
             { text: '公共API资源大全', link: '/resources/public-apis' },
-            { text: '机器学习基础教程', link: '/resources/machine-learning-basics' }
+            { text: '机器学习基础教程', link: '/resources/machine-learning-basics' },
+            { text: '斯坦福大学ML与LLM课程', link: '/resources/stanford-ml-courses' }
           ]
         },
         {
@@ -63,7 +64,8 @@ export default {
           items: [
             { text: '概述', link: '/resources/' },
             { text: '公共API资源大全', link: '/resources/public-apis' },
-            { text: '机器学习基础教程', link: '/resources/machine-learning-basics' }
+            { text: '机器学习基础教程', link: '/resources/machine-learning-basics' },
+            { text: '斯坦福大学ML与LLM课程', link: '/resources/stanford-ml-courses' }
           ]
         },
         {
@@ -109,6 +111,7 @@ export default {
             { text: 'AI工程师进阶', link: '/ai-engineer/' },
             { text: 'LLM工程技术', link: '/ai-engineer/llm-engineering' },
             { text: 'AI应用开发工程师技能图谱', link: '/ai-engineer/ai-application-engineer' },
+            { text: 'AI对前后端开发的影响', link: '/ai-engineer/ai-impact-frontend-backend' },
             { text: 'MLOps实践指南', link: '/ai-engineer/mlops' }
           ]
         }
