@@ -48,7 +48,8 @@ export default {
             { text: '概述', link: '/resources/' },
             { text: '公共API资源大全', link: '/resources/public-apis' },
             { text: '机器学习基础教程', link: '/resources/machine-learning-basics' },
-            { text: '斯坦福大学ML与LLM课程', link: '/resources/stanford-ml-courses' }
+            { text: '斯坦福大学ML与LLM课程', link: '/resources/stanford-ml-courses' },
+            { text: '独立创业指南：MAKE', link: '/resources/indie-maker-blueprint' }
           ]
         },
         {
@@ -65,7 +66,8 @@ export default {
             { text: '概述', link: '/resources/' },
             { text: '公共API资源大全', link: '/resources/public-apis' },
             { text: '机器学习基础教程', link: '/resources/machine-learning-basics' },
-            { text: '斯坦福大学ML与LLM课程', link: '/resources/stanford-ml-courses' }
+            { text: '斯坦福大学ML与LLM课程', link: '/resources/stanford-ml-courses' },
+            { text: '独立创业指南：MAKE', link: '/resources/indie-maker-blueprint' }
           ]
         },
         {
