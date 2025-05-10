@@ -55,7 +55,8 @@ export default {
         {
           text: '工具平台',
           items: [
-            { text: 'ACI.dev：AI代理工具集成平台', link: '/tools/aci-platform' }
+            { text: 'ACI.dev：AI代理工具集成平台', link: '/tools/aci-platform' },
+            { text: '代理互操作性协议综述', link: '/tools/agent-interoperability-protocols' }
           ]
         }
       ],
@@ -73,7 +74,8 @@ export default {
         {
           text: '工具平台',
           items: [
-            { text: 'ACI.dev：AI代理工具集成平台', link: '/tools/aci-platform' }
+            { text: 'ACI.dev：AI代理工具集成平台', link: '/tools/aci-platform' },
+            { text: '代理互操作性协议综述', link: '/tools/agent-interoperability-protocols' }
           ]
         }
       ],

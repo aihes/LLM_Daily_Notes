@@ -6,9 +6,9 @@
 
 ### 1. OpenAI - Agents实用构建指南
 
-**资源名称**: A practical guide to building agents  
-**发布机构**: OpenAI  
-**资源类型**: 白皮书/实践指南  
+**资源名称**: A practical guide to building agents
+**发布机构**: OpenAI
+**资源类型**: 白皮书/实践指南
 **链接**: [下载PDF](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
 
 **主要内容**:
@@ -20,9 +20,9 @@
 
 ### 2. Anthropic - 高效Agents设计
 
-**资源名称**: Building effective agents  
-**发布机构**: Anthropic  
-**资源类型**: 工程博客/设计指南  
+**资源名称**: Building effective agents
+**发布机构**: Anthropic
+**资源类型**: 工程博客/设计指南
 **链接**: [阅读文章](https://www.anthropic.com/engineering/building-effective-agents)
 
 **主要内容**:
@@ -34,9 +34,9 @@
 
 ### 3. 微软 - AI Agent入门课程
 
-**资源名称**: AI Agents for Beginners  
-**发布机构**: Microsoft  
-**资源类型**: 开源课程  
+**资源名称**: AI Agents for Beginners
+**发布机构**: Microsoft
+**资源类型**: 开源课程
 **链接**: [GitHub仓库](https://github.com/microsoft/ai-agents-for-beginners)
 
 **主要内容**:
@@ -48,9 +48,9 @@
 
 ### 4. Chip Huyen - AI工程中的Agents
 
-**资源名称**: Agents (AI Engineering)  
-**发布者**: Chip Huyen (AI工程专家)  
-**资源类型**: 技术博客/教程  
+**资源名称**: Agents (AI Engineering)
+**发布者**: Chip Huyen (AI工程专家)
+**资源类型**: 技术博客/教程
 **链接**: [阅读文章](https://huyenchip.com/2025/01/07/agents.html)
 
 **主要内容**:
@@ -62,9 +62,9 @@
 
 ### 5. HuggingFace - AI Agents课程
 
-**资源名称**: 🤗 AI Agents Course  
-**发布机构**: HuggingFace  
-**资源类型**: 交互式课程  
+**资源名称**: 🤗 AI Agents Course
+**发布机构**: HuggingFace
+**资源类型**: 交互式课程
 **链接**: [课程主页](https://huggingface.co/learn/agents-course/en/unit0/introduction)
 
 **主要内容**:
@@ -76,9 +76,9 @@
 
 ### 6. Google - Agents白皮书
 
-**资源名称**: Agents  
-**发布机构**: Google  
-**资源类型**: 白皮书/研究报告  
+**资源名称**: Agents
+**发布机构**: Google
+**资源类型**: 白皮书/研究报告
 **链接**: [Kaggle白皮书](https://www.kaggle.com/whitepaper-agents)
 
 **主要内容**:
@@ -89,6 +89,12 @@
 - 未来发展趋势
 
 ## 其他值得关注的资源
+
+### 代理互操作性协议综述
+
+**链接**: [阅读文章](/tools/agent-interoperability-protocols)
+
+对四种主要代理互操作性协议(MCP、ACP、A2A和ANP)的系统性总结，包括各协议的特点、适用场景和实施路径。
 
 ### AutoGPT
 
