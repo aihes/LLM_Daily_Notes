@@ -27,6 +27,7 @@ export default {
       { text: '每日笔记', link: '/daily/' },
       { text: '基础理论', link: '/basic-theory/' },
       { text: '模型解析', link: '/model-analysis/' },
+      { text: 'LLM技术', link: '/llm-techniques/' },
       { text: '应用实践', link: '/applications/' },
       { text: '前沿动态', link: '/news/' },
       { text: '资源工具', link: '/resources/' }
@@ -159,6 +160,15 @@ export default {
             { text: '可解释性的紧迫性', link: '/translations/interpretability-urgency' },
             { text: '可解释性精简总结', link: '/translations/interpretability-summary' },
             { text: '可解释性交互式解读', link: '/translations/interpretability-interactive' }
+          ]
+        }
+      ],
+      '/llm-techniques/': [
+        {
+          text: 'LLM技术进阶',
+          items: [
+            { text: '概述', link: '/llm-techniques/' },
+            { text: 'Self-RAG：自反思检索增强生成', link: '/llm-techniques/self-rag' }
           ]
         }
       ]
