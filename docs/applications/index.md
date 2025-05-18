@@ -8,6 +8,7 @@
 - [知识问答系统](./qa-systems.md)：基于LLM构建高效知识问答系统
 - [多模态应用](./multimodal.md)：结合图像、音频等多模态信息的LLM应用
 - [Agent开发](./agent-development.md)：自主智能体的设计与实现
+- [AI Agent vs Agentic AI](./ai-agent-vs-agentic-ai.md)：AI Agent与Agentic AI的概念分类、应用与挑战
 
 ## 推荐技术
 

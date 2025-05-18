@@ -90,6 +90,12 @@
 
 ## 其他值得关注的资源
 
+### AI Agent vs Agentic AI概念分类
+
+**链接**: [阅读文章](./ai-agent-vs-agentic-ai)
+
+对AI Agent和Agentic AI的概念、特点、应用场景和挑战进行了系统性总结，帮助理解这两种不同的技术范式及其在实际应用中的区别。
+
 ### 代理互操作性协议综述
 
 **链接**: [阅读文章](/tools/agent-interoperability-protocols)
