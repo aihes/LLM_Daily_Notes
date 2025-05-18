@@ -117,7 +117,8 @@ export default {
             { text: 'LLM工程技术', link: '/ai-engineer/llm-engineering' },
             { text: 'AI应用开发工程师技能图谱', link: '/ai-engineer/ai-application-engineer' },
             { text: 'AI对前后端开发的影响', link: '/ai-engineer/ai-impact-frontend-backend' },
-            { text: 'MLOps实践指南', link: '/ai-engineer/mlops' }
+            { text: 'MLOps实践指南', link: '/ai-engineer/mlops' },
+            { text: 'AI Agent vs Agentic AI', link: '/applications/ai-agent-vs-agentic-ai.html' }
           ]
         }
       ],
