@@ -8,6 +8,7 @@
 - [Claude系列](./claude.md)：Anthropic的Claude模型特点与应用
 - [Llama系列](./llama.md)：Meta的开源大模型Llama解析
 - [国产模型分析](./chinese-models.md)：国内主流大模型的发展与特点
+- [大模型推理能力](./reasoning-capabilities.md)：大型语言模型在动态环境中的推理能力深度解析
 
 ## 模型对比与选择
 
