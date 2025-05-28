@@ -9,6 +9,7 @@
 - [多模态应用](./multimodal.md)：结合图像、音频等多模态信息的LLM应用
 - [Agent开发](./agent-development.md)：自主智能体的设计与实现
 - [AI Agent vs Agentic AI](./ai-agent-vs-agentic-ai.md)：AI Agent与Agentic AI的概念分类、应用与挑战
+- [Alita通用智能体](./alita-generalist-agent.md)：基于极简设计与自进化能力的革命性通用智能体
 
 ## 推荐技术
 
