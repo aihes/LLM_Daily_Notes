@@ -7,6 +7,7 @@
 - [Transformer架构](./transformer.md)：深入解析Transformer架构的设计原理与实现
 - [预训练与微调](./pretraining-finetuning.md)：探讨大模型的预训练方法与微调技术
 - [提示工程](./prompt-engineering.md)：学习如何设计有效的提示以获得最佳模型输出
+- [体验时代](./era-of-experience.md)：AI发展的新范式——从人类数据时代向体验时代的转变
 
 ## 为什么理解基础理论很重要？
 
